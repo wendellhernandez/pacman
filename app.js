@@ -239,7 +239,7 @@ function ghostMove(){
             default:
                 break;
         }
-    }, 30)
+    }, 100)
 }
 
 ghostMove();
